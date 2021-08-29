@@ -1,8 +1,8 @@
 # Security Kakao Chatbot
 
 ### Ref.
-Security Company : [ITForest](http://www.itforest.net/)  
-Click [here](https://pf.kakao.com/_xfXbxeK) to find out about chatbot
++ Security Company : [ITForest](http://www.itforest.net/)  
++ Click [here](https://pf.kakao.com/_xfXbxeK) to find out about chatbot
 
 ### About
 > This chatbot can scrap recent and weekly hot news about security issue's in ['보안뉴스'](https://www.boannews.com/default.asp?direct=mobile), ['데일리시큐'](https://www.dailysecu.com/), ['Wired'](https://www.wired.com/) and ['The Hacker News'](https://thehackernews.com/)
