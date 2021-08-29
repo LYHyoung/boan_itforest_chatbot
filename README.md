@@ -1,8 +1,7 @@
 # Security Kakao Chatbot
 
 ### Ref.
-Security Company : [ITForest](http://www.itforest.net/)
-
+Security Company : [ITForest](http://www.itforest.net/)  
 Click [here](https://pf.kakao.com/_xfXbxeK) to find out about chatbot
 
 ### About
