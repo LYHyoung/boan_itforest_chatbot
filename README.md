@@ -14,7 +14,8 @@
 
 ### DB Log Structure
 > / : Directory
-(None) : File
+
+> (None) : File
 
 <pre>
 <code>
