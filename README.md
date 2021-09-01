@@ -9,5 +9,5 @@
 > Also can get news issues by insert keyword like [Zero-Day](https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%A1%9C_%EB%8D%B0%EC%9D%B4_%EA%B3%B5%EA%B2%A9) and [SolarWinds](https://www.solarwinds.com/ko/)
 
 ### ARCH.
-[test](https://user-images.githubusercontent.com/37611500/131669373-816a9ec3-9d51-4bb1-9d28-5a21dfb0a4fa.png)
+<img src="https://user-images.githubusercontent.com/37611500/131669373-816a9ec3-9d51-4bb1-9d28-5a21dfb0a4fa.png">
 Server : AWS EC2
