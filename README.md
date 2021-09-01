@@ -10,4 +10,44 @@
 
 ### ARCH.
 <img src="https://user-images.githubusercontent.com/37611500/131669848-2d7c79ed-f9d6-4134-8082-312600872a3e.png">
-Server : AWS EC2
+> Server : AWS EC2
+
+### DB Log Structure
+> / : Directory
+> (None) : File
+
+<pre>
+<code>
+/root
+├── /admin
+│   ├── Searched Word
+│   ├── /_search
+│   │   ├── 보안뉴스
+│   │   ├── 데일리시큐
+│   │   ├── The Hacker News
+│   │   └── Wired
+│   ├── /_recent
+│   │   ├── 보안뉴스
+│   │   ├── 데일리시큐
+│   │   ├── The Hacker News
+│   │   └── Wired
+│   └── /_weekly
+│       ├── 보안뉴스
+│       ├── 데일리시큐
+│       ├── The Hacker News
+│       └── Wired
+└── /Users
+    ├── /userkey(hash[0:2])
+    │   ├── /userkey(hash[3:])
+    │   │   ├── user
+    │   │   ├── SearchN 
+    │   │   └──  /searched 
+    │   │        └── Searched Word
+...
+    │   └── /userkey(hash[3:])
+    │       └── ...
+...
+    └── /userkey(hash[0:2])
+        └── ...
+</code>
+</pre>
