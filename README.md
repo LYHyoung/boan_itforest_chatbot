@@ -13,8 +13,7 @@
 > Server : AWS EC2
 
 ### DB Log Structure
-> / : Directory
-
+> / : Directory  
 > (None) : File
 
 <pre>
