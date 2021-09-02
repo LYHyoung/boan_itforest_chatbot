@@ -9,7 +9,7 @@
 > Also can get news issues by insert keyword like [Zero-Day](https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%A1%9C_%EB%8D%B0%EC%9D%B4_%EA%B3%B5%EA%B2%A9) and [SolarWinds](https://www.solarwinds.com/ko/)
 
 ### Func.
-#### USER
+##### USER
 + recent news
 + weekly hot news
 + get news about user's utterance
@@ -18,7 +18,7 @@
     + recommend with user's utterance log
 + change user's name
     + name : chatbot will call user by this 'name'
-#### ADMIN
+##### ADMIN
 + check 'recent news' Log
 + check 'weekly hot news' Log
 + check 'user's utterance news' Log
