@@ -51,3 +51,18 @@
         └── ...
 </code>
 </pre>
+
+### Layout
++ menu
+<img src="https://user-images.githubusercontent.com/37611500/131847973-509516e7-44a6-4468-8d3f-dcf1b584c3ab.PNG">
+
++ user's utterance
+<img src="https://user-images.githubusercontent.com/37611500/131848380-c29f6030-d132-4049-8efa-2cf602f260b3.PNG">
+
++ recent news
+<img src="https://user-images.githubusercontent.com/37611500/131848682-53428aa3-e9af-4d0f-ad51-98969ce04fd5.PNG">
+
++ weekly news
+<img src="https://user-images.githubusercontent.com/37611500/131848864-514c4a82-e7bc-4951-98c3-bb1dd8d9dd2f.PNG">
+
+
